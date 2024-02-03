@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.6.4"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.17.0"
   }
 }
